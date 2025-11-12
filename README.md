@@ -1,8 +1,9 @@
 # Anxiety Classification Using 
 
 ## فهرست
-- []()
-- [فایل اول](#توضیح-فایل-copy-of-project1_final_solutionipy)
+- [اهداف اصلی](#اهداف-اصلی)
+- [اهداف فرعی](#اهداف-فرعی)
+- [توضیح فایل 1](#توضیح-فایل-copy-of-project1_final_solutionipy)
 - [توضیح فایل 2](#توضیح-فایل-mainipynb)
 - [توضیح فایل 3](#توضیح-فایل-anxietyipynb)
 - [توضیح فایل 4](#توضیح-فایل-anxiety_decision_boundaryipynb)
