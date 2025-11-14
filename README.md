@@ -1,4 +1,6 @@
-# Anxiety Classification Using 
+# Anxiety Classification 
+
+![Image](https://github.com/user-attachments/assets/cd6579ed-78d8-4c22-89d6-9518d2bbbba8)
 
 ## فهرست
 - [اهداف اصلی](#اهداف-اصلی)
