@@ -1,6 +1,6 @@
 # Anxiety Classification 
 
-![Image](https://github.com/user-attachments/assets/cd6579ed-78d8-4c22-89d6-9518d2bbbba8)
+<img width="930" height="614" alt="Image" src="https://github.com/user-attachments/assets/ee3df67b-eb5f-4943-9d29-9e4084ba1843" />)
 
 ## فهرست
 - [اهداف اصلی](#اهداف-اصلی)
